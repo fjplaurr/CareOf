@@ -1,4 +1,4 @@
-# CareOf
+# CareOf - Android App
 
 Nowadays, dependent people can improve their life quality thank to new mobile technologies.
 If there is a child, an old person or a disabled person in your family, 
