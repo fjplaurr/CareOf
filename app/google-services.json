@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "216144674058",
+    "firebase_url": "https://studied-groove-821.firebaseio.com",
+    "project_id": "studied-groove-821",
+    "storage_bucket": "studied-groove-821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216144674058:android:a0ed12900bd95b2f",
+        "android_client_info": {
+          "package_name": "com.controlador.pfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216144674058-6efj1acmonvtvjpgipar18c83pqksa0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuJsk4Npt_Je37ShLPb66XzbTadJp49a4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

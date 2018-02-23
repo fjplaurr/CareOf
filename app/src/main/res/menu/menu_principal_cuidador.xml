@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/agregar_persona_dependiente"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/anadirpersona"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/borrar_persona_dependiente"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/borrarpersona"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/cerrar_sesion"
+        android:title="Cerrar sesión"
+        app:showAsAction="never" />
+
+
+   <!-- <item android:id="@+id/diario_persona_dependiente"
+        android:icon="@drawable/ic_action_diario"
+        android:title="@string/diario"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/mensajes"
+        android:icon="@drawable/ic_action_mensaje"
+        android:title="@string/mensajes"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/alertas"
+        android:icon="@drawable/ic_action_alerta"
+        android:title="@string/alertas"
+        app:showAsAction="always" />-->
+
+
+</menu>
