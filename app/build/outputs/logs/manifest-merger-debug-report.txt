@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:2:1-96:12
-INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:2:1-96:12
-INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:2:1-96:12
-INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:2:1-96:12
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:2:1-96:12
 MERGED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-2.3.0.aar\a6a057a863fd9b11fa0236da677eea31\AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\fb08c914380ff9e5600de6dff9205973\AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c631d8b31bf3e30ac7338fe18e66bace\AndroidManifest.xml:17:1-31:12
@@ -32,25 +32,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\FranciscoJa
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d9638893e825a3ab6af0371a07bbba3a\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\164d1233c097916c5f987c233025e678\AndroidManifest.xml:17:1-30:12
 MERGED from [android.arch.core:runtime:1.0.0-alpha8] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha8.aar\7116c375e8b5ad13f93db7ed66b250f9\AndroidManifest.xml:17:1-26:12
-INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:2:1-96:12
-INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:2:1-96:12
-INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:2:1-96:12
 	package
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:3:5-34
-		INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:8:5-67
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:8:5-67
 MERGED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-2.3.0.aar\a6a057a863fd9b11fa0236da677eea31\AndroidManifest.xml:11:5-67
 MERGED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-2.3.0.aar\a6a057a863fd9b11fa0236da677eea31\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\e5bea0bac57b0fe211aa475cfdb3e1f9\AndroidManifest.xml:20:5-66
@@ -60,9 +60,9 @@ MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Franci
 MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\66754ecc1a842efd8c9c2f7ec9cbc39e\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\66754ecc1a842efd8c9c2f7ec9cbc39e\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:8:22-64
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:8:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:9:5-79
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:9:5-79
 MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\e5bea0bac57b0fe211aa475cfdb3e1f9\AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\e5bea0bac57b0fe211aa475cfdb3e1f9\AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\3579a257c814a7188f7f810ffbb578c2\AndroidManifest.xml:21:5-78
@@ -70,21 +70,21 @@ MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Franci
 MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\66754ecc1a842efd8c9c2f7ec9cbc39e\AndroidManifest.xml:19:5-78
 MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\66754ecc1a842efd8c9c2f7ec9cbc39e\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:9:22-76
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:9:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:10:5-81
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:10:22-78
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:10:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:11:5-75
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:11:5-75
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:11:22-72
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:11:22-72
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:12:5-80
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:12:5-80
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:12:22-77
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:12:22-77
 application
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:14:5-94:19
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:14:5-94:19
 MERGED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-2.3.0.aar\a6a057a863fd9b11fa0236da677eea31\AndroidManifest.xml:13:5-17:19
 MERGED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-2.3.0.aar\a6a057a863fd9b11fa0236da677eea31\AndroidManifest.xml:13:5-17:19
 MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\fb08c914380ff9e5600de6dff9205973\AndroidManifest.xml:5:5-20
@@ -136,157 +136,157 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\FranciscoJavier
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\164d1233c097916c5f987c233025e678\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\164d1233c097916c5f987c233025e678\AndroidManifest.xml:24:5-28:19
 	android:label
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:17:9-41
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:17:9-41
 	android:icon
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:16:9-45
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:16:9-45
 	android:allowBackup
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:18:9-40
-activity#com.controlador.vlogin
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:21:9-29:20
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.controller.Login
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:21:9-29:20
 	android:label
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:24:13-45
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:24:13-45
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:23:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:23:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:22:13-50
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:22:13-48
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:25:13-28:29
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:25:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:26:17-69
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:26:25-66
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:27:27-74
-activity#com.controlador.administrador.vregistrarcentro
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:30:9-33:48
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.controller.administrator.SignUpAdmin
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:30:9-33:48
 	android:label
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:33:13-45
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:33:13-45
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:32:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:32:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:31:13-74
-activity#com.controlador.cuidadores.vregistrar_per_depend
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:34:9-37:15
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:31:13-68
+activity#com.controller.carers.SignUpDependentPerson
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:34:9-37:15
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:36:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:36:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:35:13-76
-activity#com.controlador.cuidadores.vborrar_per_depend
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:38:9-41:58
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:35:13-71
+activity#com.controller.carers.DeleteDependentPerson
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:38:9-41:58
 	android:label
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:41:13-55
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:41:13-55
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:40:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:40:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:39:13-73
-activity#com.controlador.cuidadores.vprincipal_cuidadores
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:42:9-45:15
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:39:13-71
+activity#com.controller.carers.MainActivityCarers
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:42:9-45:15
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:44:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:44:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:43:13-76
-activity#com.controlador.familiares.vprincipal_familiar
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:46:9-49:40
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:43:13-68
+activity#com.controller.mentors.MainActivityMentor
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:46:9-49:40
 	android:label
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:49:13-37
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:49:13-37
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:48:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:48:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:47:13-74
-activity#com.controlador.administrador.vprincipal_administrador
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:50:9-53:45
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:47:13-69
+activity#com.controller.administrator.MainActivityAdmin
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:50:9-53:45
 	android:label
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:53:13-42
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:53:13-42
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:52:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:52:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:51:13-82
-activity#com.controlador.cuidadores.Valertas_cuidadores
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:54:9-57:39
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:51:13-74
+activity#com.controller.carers.ViewPagerAlerts
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:54:9-57:39
 	android:label
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:57:13-36
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:57:13-36
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:56:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:56:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:55:13-74
-activity#com.controlador.vChat
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:58:9-59:35
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:55:13-65
+activity#com.controller.Chat
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:58:9-59:35
 	android:label
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:59:13-33
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:59:13-33
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:58:19-55
-activity#com.controlador.administrador.vborrar_cuidador
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:60:9-63:49
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:58:19-53
+activity#com.controller.administrator.DeleteCarer
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:60:9-63:49
 	android:label
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:63:13-46
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:63:13-46
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:62:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:62:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:61:13-74
-activity#com.controlador.cuidadores.vlistar_per_depend
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:64:9-67:15
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:61:13-68
+activity#com.controller.carers.ListDependentPeople
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:64:9-67:15
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:66:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:66:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:65:13-73
-activity#com.controlador.cuidadores.vDiario_cuidadores
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:68:9-71:15
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:65:13-69
+activity#com.controller.carers.DiaryCarers
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:68:9-71:15
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:70:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:70:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:69:13-73
-activity#com.controlador.familiares.vDiario_familiar
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:72:9-75:38
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:69:13-61
+activity#com.controller.mentors.DiaryMentor
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:72:9-75:38
 	android:label
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:75:13-35
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:75:13-35
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:74:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:74:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:73:13-71
-activity#com.controlador.familiares.vAlertas_familiar
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:76:9-79:39
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:73:13-62
+activity#com.controller.mentors.AlertsMentor
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:76:9-79:39
 	android:label
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:79:13-36
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:79:13-36
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:78:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:78:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:77:13-72
-activity#com.controlador.cuidadores.ValertasII_cuidadores
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:80:9-85
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:77:13-63
+activity#com.controller.carers.CarerAlerts
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:80:9-70
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:80:19-82
-activity#com.controlador.administrador.vborrar_grupo
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:81:9-84:60
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:80:19-67
+activity#com.controller.administrator.DeleteGroup
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:81:9-84:60
 	android:label
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:84:13-57
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:84:13-57
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:83:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:83:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:82:13-71
-activity#com.controlador.administrador.vcrear_grupo
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:85:9-88:43
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:82:13-68
+activity#com.controller.administrator.CreateGroup
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:85:9-88:43
 	android:label
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:88:13-40
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:88:13-40
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:87:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:87:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:86:13-70
-activity#com.controlador.administrador.valta_cuidador
-ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:89:9-93:16
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:86:13-68
+activity#com.controller.administrator.SignUpCarer
+ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:89:9-93:16
 	android:parentActivityName
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:92:13-96
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:92:13-88
 	android:configChanges
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:91:13-74
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:91:13-74
 	android:name
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml:90:13-72
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml:90:13-68
 uses-sdk
-INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
 MERGED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-2.3.0.aar\a6a057a863fd9b11fa0236da677eea31\AndroidManifest.xml:7:5-9:41
 MERGED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-2.3.0.aar\a6a057a863fd9b11fa0236da677eea31\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\fb08c914380ff9e5600de6dff9205973\AndroidManifest.xml:4:5-43
@@ -343,18 +343,18 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\FranciscoJavier2\.gr
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\164d1233c097916c5f987c233025e678\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.core:runtime:1.0.0-alpha8] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha8.aar\7116c375e8b5ad13f93db7ed66b250f9\AndroidManifest.xml:22:5-24:41
 MERGED from [android.arch.core:runtime:1.0.0-alpha8] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha8.aar\7116c375e8b5ad13f93db7ed66b250f9\AndroidManifest.xml:22:5-24:41
-INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.1.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c631d8b31bf3e30ac7338fe18e66bace\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\FranciscoJavier2\AndroidStudioProjects\Pfc\pfc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FranciscoJavier2\Google Drive\Android\AndroidStudioProjects\pfc\app\src\main\AndroidManifest.xml
 meta-data#com.google.android.gms.version
 ADDED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-2.3.0.aar\a6a057a863fd9b11fa0236da677eea31\AndroidManifest.xml:14:9-16:69
 MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\FranciscoJavier2\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\904cd9782c58296b1c7776937bc1e926\AndroidManifest.xml:20:9-121

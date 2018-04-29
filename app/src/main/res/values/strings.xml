@@ -18,11 +18,12 @@
     <string name="registrarcentro">Registrar centro</string>
     <string name="login">Iniciar Sesión</string>
     <string name="usu_contra_incorrect">Usuario y/o contraseña incorrectos</string>
-    <string name="registrarpersonal">Registrar personal</string>
-    <string name="anadirpersonal">Añadir personal del centro</string>
+    <string name="registrarpersonal">Registrar cuidador</string>
+    <string name="anadirpersonal">Añadir cuidador del centro</string>
     <string name="prueba">Prueba</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="borrar_cuidador">Borrar cuidador</string>
 
 </resources>

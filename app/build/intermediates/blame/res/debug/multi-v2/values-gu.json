@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\FranciscoJavier2\\AndroidStudioProjects\\Pfc\\pfc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
+            "outputFile": "C:\\Users\\FranciscoJavier2\\Google Drive\\Android\\AndroidStudioProjects\\pfc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\FranciscoJavier2\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\904cd9782c58296b1c7776937bc1e926\\res\\values-gu\\values.xml",

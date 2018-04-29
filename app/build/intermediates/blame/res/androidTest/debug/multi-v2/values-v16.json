@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\FranciscoJavier2\\AndroidStudioProjects\\Pfc\\pfc\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "C:\\Users\\FranciscoJavier2\\Google Drive\\Android\\AndroidStudioProjects\\pfc\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
                     "source": "C:\\Users\\FranciscoJavier2\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d9638893e825a3ab6af0371a07bbba3a\\res\\values-v16\\values-v16.xml",

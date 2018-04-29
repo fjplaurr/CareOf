@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\FranciscoJavier2\\AndroidStudioProjects\\Pfc\\pfc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "outputFile": "C:\\Users\\FranciscoJavier2\\Google Drive\\Android\\AndroidStudioProjects\\pfc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\FranciscoJavier2\\AndroidStudioProjects\\Pfc\\pfc\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "source": "C:\\Users\\FranciscoJavier2\\Google Drive\\Android\\AndroidStudioProjects\\pfc\\app\\src\\main\\res\\values-en\\strings.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,59,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endColumns": "-1,-1,-1,-1,43,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endOffsets": "-1,-1,-1,-1,98,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "4,12,10,21,3,13,14,11,15,9,18,8,17,20,5,6,7,19,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "104,541,410,1022,59,587,639,474,694,367,842,320,781,960,158,212,266,883,739",
+                        "endColumns": "52,44,62,57,43,50,53,65,43,41,39,45,59,60,52,52,52,75,40",
+                        "endOffsets": "152,581,468,1075,98,633,688,535,733,404,877,361,836,1016,206,260,314,954,775"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
